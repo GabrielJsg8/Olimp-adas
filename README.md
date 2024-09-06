@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Busca Rápida e Fácil de Atletas Brasileiros nas Olimpíadas!** 
+### **Projeto Google Gemini** 
 
 **O que faz essa aplicação?**
 
