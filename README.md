@@ -37,5 +37,6 @@ Se você é um desenvolvedor e quer dar uma força nesse projeto, fique à vonta
 * **Função `pesquisar()`:** É nessa função que toda a mágica acontece! Ela recebe o texto da pesquisa, compara com os dados e atualiza a página com os resultados.
 * **`target="_blank"`:** Faz com que os links abram em uma nova aba do navegador.
 
-* Site no Vercel *
+**Site no Vercel**
+
 https://olimpiadas-projeto-gemini.vercel.app/
